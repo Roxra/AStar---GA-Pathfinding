@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\source.cpp(143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\source.cpp(144): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\source.cpp(239): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\source.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\source.cpp(235): warning C4715: 'Roulette': not all control paths return a value
+  AI.vcxproj -> D:\Users\willi\Desktop\Code\A1 - AI Pathfinding\AI\Debug\AI.exe

@@ -1,0 +1,7 @@
+﻿  Chromosome.cpp
+  Map.cpp
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\map.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Node.cpp
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\map.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Source.cpp
+d:\users\willi\desktop\code\a1 - ai pathfinding\ai\ai\map.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
